@@ -10,3 +10,8 @@ The production team needed a way to:
 - identify contamination pattern
 - evaluate productquality grade(A,A1,A2,Reject)
 - compare production performance across shift
+  # TOOLS USED
+  -Microsoft excel
+  -MySQL
+  -PowerBI
+  
