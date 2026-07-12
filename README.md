@@ -14,6 +14,14 @@ The production team needed a way to:
   | Varaiable | Description |
   |----------|------------|
   | Bag no | Production bag ID |
+  | Batch no | Production batch |
+  | Shift | Day\Night |
+  | Moisture% | Moisture content |
+  | Total PPM | Total contamination |
+  | Label | Label conamination |
+  | PVC | PVC contamination |
+  | Metal | Metal contamination |
+  | Quality grade | A,A1,A2,Reject |
   # TOOLS USED
   - Microsoft excel
   - MySQL
