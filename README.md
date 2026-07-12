@@ -26,11 +26,9 @@ The production team needed a way to:
   - Microsoft excel
   - MySQL
   - PowerBI
-  # DATA CLEANING(EXCEL)
-  The dataset was cleaned and prepared before analysis by:
-  - Checking for missing number
-  - correcting inconsistent data format
-  - Standardizing date and time formats
-  - reviewing the dataset for accuracy before importing it into PowerBI and MySQL
+  # DATA CLEANING(MICROSOFT Excel)
+  <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/caaa8df7-3ea4-4759-b107-7cc969c7ecf3" />
+  Microsoft Excel was used to prepare the dataset for analysis. The cleaning process incude correcting data types,creating a quality grade column based on contamination thresolds,creating a shift column to distinguish between day and night production,applying formatting to improve readability and using conditional formatting to highlight contamination values that exceeded acceptable limits.These steps ensure that the dataset was accurate,consistent and ready for analuysis in MySQL,PowerBI.
+
     # DASHBOARD
   
