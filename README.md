@@ -11,9 +11,9 @@ The production team needed a way to:
 - evaluate productquality grade(A,A1,A2,Reject)
 - compare production performance across shift.
   # DATASET
-  | Varaiable| | Description|
-  |----------| |------------|
-  | Bag no| | Production bag ID|
+  | Varaiable | | Description |
+  | ---------- | | ------------ |
+  | Bag no | | Production bag ID |
   # TOOLS USED
   - Microsoft excel
   - MySQL
