@@ -12,8 +12,8 @@ The production team needed a way to:
 - compare production performance across shift.
   # DATASET
   | Varaiable | | Description |
-  | ---------- | ------------ |
-  | Bag no | | Production bag ID |
+  |----------|------------|
+  | Bag no | Production bag ID |
   # TOOLS USED
   - Microsoft excel
   - MySQL
