@@ -37,7 +37,10 @@ The production team needed a way to:
    The powerBI dashboards present production quality metrics in an interactive format.KPI Crads summarizw the most important values while charts display trends in moisture,total PPM and contaminant composition.Slicers allows user to filter the report by shift,batch number and quality grade.
 
    # KPI Cards
-  
+  <img width="398" height="133" alt="Screenshot 2026-07-12 113350" src="https://github.com/user-attachments/assets/0208bfff-829a-4f84-becd-43034ed3a352" />
+
+  KPI Cards display key production metrics incuding Total Bags,Average Moisture,Average Total PPM and Quality Grade counts.
+
 
 
   
