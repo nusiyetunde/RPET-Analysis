@@ -34,7 +34,7 @@ The production team needed a way to:
    # DASHBOARD
   <img width="519" height="265" alt="Screenshot 2026-07-12 112506" src="https://github.com/user-attachments/assets/214a91cd-bf3e-47fb-89b1-6dacff0b02fa" />
 
-   The powerBI dashboards present production quality metrics in an interactive format.KPI Cards summarize the most important values while charts display trends in moisture,total PPM and contaminant composition.Slicers allows user to filter the report by shift,batch number and quality grade.
+   The powerBI dashboards presents production quality metrics in an interactive format. KPI Cards summarize the key performance indicator, while charts display trends in moisture,total PPM and contaminant composition.Slicers allows user to filter the report by shift,batch number and quality grade.
 
    # KPI Cards
   <img width="398" height="133" alt="Screenshot 2026-07-12 113350" src="https://github.com/user-attachments/assets/0208bfff-829a-4f84-becd-43034ed3a352" />
