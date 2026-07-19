@@ -1,6 +1,6 @@
 # RPET-Analysis
 # OVERVIEW
-This project analyzes RPET(Recycled polyethylene terephthalate) production quality data to monitor production performance,contamination levels,moisture content and product quality grades.The objective is to identify trends,measure quality performabce and support data-driven decision making
+This project analyzes RPET(Recycled polyethylene terephthalate) production quality data to monitor production performance,contamination levels,moisture content and product quality grades from june 1st-15TH.The objective is to identify trends,measure quality performabce and support data-driven decision making
 # DATA SOURCE
 This project is based on anonymized internal RPET laboratory quality contol records.Company-identifying information has been removed for confidentiality
 # BUSINESS PROBLEM
@@ -103,6 +103,7 @@ This query shows the lowest Total PPM across all productions bags.
   # CONCLUSION
 
   This project demonstrated how Microsoft Excel,MYSQL and PowerBI can be used together to transform raw production data into meaningful business insights. The dataset cleaned and prepared in Microsoft Excel,analyzed using SQL queries and visualized through an interactive PowerBI dashboard.
+
   The analysis provided valuable insights into key quality metrics including moisture content,Total PPM,quality grade distribution and production performance by shift.
   Overall,the project highlights the importance of data-driven decision-making in manufacturing and demonstrate practical skills in data cleaning,querying,analysis and dashboard development.
   
