@@ -41,6 +41,8 @@ The production team needed a way to:
 
   KPI Cards display key production metrics incuding Total Bags,Average Moisture,Average Total PPM and Quality Grade counts.
 
+  
+
 
 
   
