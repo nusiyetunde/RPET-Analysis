@@ -91,6 +91,15 @@ This query shows the lowest Total PPM across all productions bags.
 
 
 # RECOMMENDATION
+- Monitor moisture level more frequently during production
+- Ensure raw materials are properly dried before processing
+- Ensure proper checking of raw material
+- Perform regular cleaning and maintenance of production equipment to minimize contaminant
+- Provide additional training or suoervision to the shift with higher average contamination
+- Compare day and night shift performance regularly
+- Focus on reducing contaminant such as glued flakes that contribute to rejection
+
+
 
 
   
