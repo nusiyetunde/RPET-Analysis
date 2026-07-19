@@ -100,6 +100,14 @@ This query shows the lowest Total PPM across all productions bags.
 - Focus on reducing contaminant such as glued flakes that contribute to rejection
 
 
+  # CONCLUSION
+
+  This project demonstrated how Microsoft Excel,MYSQL and PowerBI can be used together to transform raw production data into meaningful business insights. The dataset cleaned and prepared in Microsoft Excel,analyzed using SQL queries and visualized through an interactive PowerBI dashboard.
+  The analysis provided valuable insights into key quality metrics including moisture content,Total PPM,quality grade distribution and production performance by shift.
+  Overall,the project highlights the importance of data-driven decision-making in manufacturing and demonstrate practical skills in data cleaning,querying,analysis and dashboard development.
+  
+
+
 
 
   
