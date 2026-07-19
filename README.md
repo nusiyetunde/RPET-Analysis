@@ -31,7 +31,7 @@ The production team needed a way to:
 
    Microsoft Excel was used to prepare the dataset for analysis. The cleaning process incude correcting data types,creating a quality grade column based on contamination thresolds,creating a shift column to distinguish between day and night production,applying formatting to improve readability and using conditional formatting to highlight contamination values that exceeded acceptable limits.These steps ensure that the dataset was accurate,consistent and ready for analuysis in MySQL,PowerBI.
 
-   # DASHBOARD
+   # POWER BI
   <img width="519" height="265" alt="Screenshot 2026-07-12 112506" src="https://github.com/user-attachments/assets/214a91cd-bf3e-47fb-89b1-6dacff0b02fa" />
 
    The powerBI dashboards presents production quality metrics in an interactive format. KPI Cards summarize the key performance indicator, while charts display trends in moisture,total PPM and contaminant composition.Slicers allows user to filter the report by shift,batch number and quality grade.
@@ -40,6 +40,28 @@ The production team needed a way to:
   <img width="398" height="133" alt="Screenshot 2026-07-12 113350" src="https://github.com/user-attachments/assets/0208bfff-829a-4f84-becd-43034ed3a352" />
 
   KPI Cards display key production metrics incuding Total Bags,Average Moisture,Average Total PPM and Quality Grade counts.
+
+  # SQL
+  TOTAL BAGS
+  
+  <img width="450" height="271" alt="Screenshot 2026-07-19 135645" src="https://github.com/user-attachments/assets/58389366-d087-4c31-886c-c55eaad0d0cb" />
+
+  This query calculate the total bag produce from june 1st-15th.
+
+  AVERAGE TOTAL PPM
+
+  <img width="450" height="319" alt="Screenshot 2026-07-19 135833" src="https://github.com/user-attachments/assets/ec4d26a3-eef6-4aca-b2ed-745d4a278a54" />
+  
+  This query calculate the average total ppm across all production bags.This metrics helps assess whether the production process is operating within acceptable quality limits.
+
+  QUALITY GRADE DISTRIBUTION
+
+  <img width="447" height="286" alt="Screenshot 2026-07-19 135913" src="https://github.com/user-attachments/assets/f1a68df1-8523-48d8-a2fe-de398cbb862f" />
+
+  This query counts the number of bags in each quality grade(A,A1,A2 and Reject),helping to evaluate overall production quality.
+
+
+
 
   
 
