@@ -89,13 +89,8 @@ This query shows the lowest Total PPM across all productions bags.
 - Night shift produce the highest bag number more than morning shift.
 - Night shift produce  grade A1 Bag more than morning shift.
 
-  
 
-
-
-
-  
-
+# RECOMMENDATION
 
 
   
