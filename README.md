@@ -52,13 +52,44 @@ The production team needed a way to:
 
   <img width="450" height="319" alt="Screenshot 2026-07-19 135833" src="https://github.com/user-attachments/assets/ec4d26a3-eef6-4aca-b2ed-745d4a278a54" />
   
-  This query calculate the average total ppm across all production bags.This metrics helps assess whether the production process is operating within acceptable quality limits.
+  This query calculate the average Total PPM across all production bags.This metrics helps assess whether the production process is operating within acceptable quality limits.
 
   QUALITY GRADE DISTRIBUTION
 
   <img width="447" height="286" alt="Screenshot 2026-07-19 135913" src="https://github.com/user-attachments/assets/f1a68df1-8523-48d8-a2fe-de398cbb862f" />
 
   This query counts the number of bags in each quality grade(A,A1,A2 and Reject),helping to evaluate overall production quality.
+
+  SHIFT PERFORMANCE
+
+  <img width="443" height="263" alt="Screenshot 2026-07-19 141710" src="https://github.com/user-attachments/assets/8442a857-70af-47c8-bda3-9c77ebbc65a4" />
+
+  This query calculate the average Total PPM and average yellow flakes across the shift.
+
+  HIGHEST TOTAL PPM
+
+  <img width="442" height="333" alt="Screenshot 2026-07-19 140137" src="https://github.com/user-attachments/assets/f2332521-9c79-401e-bbe5-98962baeda3b" />
+
+This query shows the highest Total PPM across all production bags.
+
+LOWEST TOTAL PPM
+
+<img width="444" height="333" alt="Screenshot 2026-07-19 140029" src="https://github.com/user-attachments/assets/229b6475-891a-48a9-b652-78a457392720" />
+
+This query shows the lowest Total PPM across all productions bags.
+
+
+# KEY INSIGHTS
+
+- A total of 864 bags were analyzed.
+- Average moisture was 1.14% .
+- Average Total PPM was 63.21 .
+- Grade A1  reoresented the highest proportion of production.
+- Label contamination was the most common contaminant.
+- Night shift produce the highest bag number more than morning shift.
+- Night shift produce  grade A1 Bag more than morning shift.
+
+  
 
 
 
